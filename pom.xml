@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>TimeCycle</groupId>
-    <artifactId>timecycle</artifactId>
-    <version>1.0.0</version>
+    <artifactId>TimeCycle</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
 
     <dependencies>
         <dependency>
