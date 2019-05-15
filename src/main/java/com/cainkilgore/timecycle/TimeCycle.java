@@ -10,7 +10,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 public class TimeCycle extends JavaPlugin implements CommandExecutor {
 
     boolean isTimeCycling = false;
-    long currentTime = 0; // ayy
+    long currentTime = 0; // test
 
     public void onEnable() {
         getCommand("timecycle").setExecutor(this);
