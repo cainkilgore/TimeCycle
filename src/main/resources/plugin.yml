@@ -1,0 +1,8 @@
+name: 'TimeCycle'
+author: 'Cain'
+main: com.cainkilgore.timecycle.TimeCycle
+version: "1.0"
+commands:
+   timecycle:
+       description: 'Timecycle'
+       usage: '/<command>'
